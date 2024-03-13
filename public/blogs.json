@@ -1,0 +1,48 @@
+[
+    {
+      "id": 123456,
+      "cover": "https://i.ibb.co/yWndnVm/banner-6.jpg",
+      "title": "The Secret Garden",
+      "author_img": "https://i.ibb.co/kXLMZVJ/author-5-png.jpg",
+      "posted_date": "2024-03-13",
+      "reading_time": "30 minutes",
+      "hashtags": ["#SecretGarden", "#Classic", "#Nature"]
+    },
+    {
+      "id": 789012,
+      "cover": "https://i.ibb.co/4KHbP2F/banner-9-png.jpg",
+      "title": "Beyond the Stars",
+      "author_img": "https://i.ibb.co/Svm5cy2/author-1-png.jpg",
+      "posted_date": "2024-03-12",
+      "reading_time": "45 minutes",
+      "hashtags": ["#SciFi", "#Adventure", "#Space"]
+    },
+    {
+      "id": 345678,
+      "cover": "https://i.ibb.co/Brfdg12/banner-15-png.jpg",
+      "title": "The Enchanted Forest",
+      "author_img": "https://i.ibb.co/z6B4fd9/author-3-png.jpg",
+      "posted_date": "2024-03-11",
+      "reading_time": "25 minutes",
+      "hashtags": ["#Fantasy", "#Magic", "#Adventure"]
+    },
+    {
+      "id": 901234,
+      "cover": "https://i.ibb.co/YDwZH6S/banner-1-jpg.jpg",
+      "title": "The Time Traveler's Diary",
+      "author_img": "https://i.ibb.co/QHKBwr3/author-2-png.jpg",
+      "posted_date": "2024-03-10",
+      "reading_time": "60 minutes",
+      "hashtags": ["#TimeTravel", "#Diary", "#Adventure"]
+    },
+    {
+      "id": 567890,
+      "cover": "https://i.ibb.co/Fn7cJM1/banner-13-png.jpg",
+      "title": "Mystery of the Sphinx",
+      "author_img": "https://i.ibb.co/ynTJskc/author-4-png.jpg",
+      "posted_date": "2024-03-09",
+      "reading_time": "40 minutes",
+      "hashtags": ["#Mystery", "#AncientEgypt", "#Adventure"]
+    }
+  ]
+  
