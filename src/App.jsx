@@ -1,5 +1,6 @@
 import './App.css'
 import Blogs from './components/Blogs/Blogs'
+import Bookmarks from './components/Bookmarks/Bookmarks'
 import Header from './components/Header/Header'
 
 
@@ -10,7 +11,10 @@ function App() {
     <>
       
       <Header></Header>
+      <div className='md:flex items-center'>
       <Blogs></Blogs>
+      <Bookmarks></Bookmarks>
+      </div>
           
     </>
   )
